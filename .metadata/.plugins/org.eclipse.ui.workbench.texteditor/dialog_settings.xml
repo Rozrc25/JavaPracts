@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="package Besant.Corejavarohith;"/>
+		<list key="findhistory">
+			<item value="package Besant.Corejavarohith;"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
